@@ -122,7 +122,7 @@
             <a href="/newpc/lxwm/" target="_blank">联系我们</a>
             <div>
               <a href="/newpc/lxwm/" target="_blank">
-                <span>来校路线</span>
+                <span>来校路线 </span>
               </a>
               <a href="/newpc/zxbm/" target="_blank">
                 <span>在线报名</span>
