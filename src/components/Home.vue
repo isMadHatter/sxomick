@@ -15,9 +15,6 @@
           </a>
         </div>
       </div>
-      <div class="hhh">
-        点击
-      </div>
       <div class="headerdiv2">
         <div class="head_dh container">
           <li>
@@ -65,7 +62,7 @@
             </div>
           </li>
           <li>
-            <a href="/a/xyhj/" target="_blank">校园环境</a>
+            <a class="hhh">校园环境</a>
           </li>
           <li>
             <a href="/a/mingshifengcai/" target="_blank">名师风采</a>
@@ -383,11 +380,6 @@
 import $ from 'jquery'
 
 export default {
-  created(){
-    $('.hhh').click({
-      console.log()
-    })
-  },
   methods:{
     handle(){
       this.$router.push('/about')
